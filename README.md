@@ -74,9 +74,13 @@ I help organizations optimize their energy systems through data-driven approache
 
 <div align="center">
 
+<!-- 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanLeiria&show_icons=true&theme=gradient&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_color=667eea&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanLeiria&layout=compact&theme=gradient&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_color=667eea&hide_border=false&langs_count=8)
+
+-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanLeiria&theme=dark&background=0d1117&stroke=667eea&ring=764ba2&fire=ff6b6b&currStreakLabel=667eea&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9&border=667eea)
 
@@ -84,11 +88,25 @@ I help organizations optimize their energy systems through data-driven approache
 
 ## 🌍 Global Reach
 
+<!-- 
+
+Parameters changed:
+- w=600: Sets width to 600px (default is ~400px)
+- Added width="600" in the img tag for consistency
+
+-->
+
 <div align="center">
 
 **Visitors from around the world**
 
-[![Visitor Map](https://clustrmaps.com/map_v2.png?cl=0d1117&w=a&t=tt&d=lt5yi6v115gANrN7Nqlqd0QdWnaacVJw3S5z_FQTu7A&co=667eea&cmo=764ba2&cmn=a855f7&ct=c9d1d9)](https://clustrmaps.com/site/1c2fp)
+<div align="center">
+
+<a href="https://clustrmaps.com/site/1c2fp">
+    <img src="https://clustrmaps.com/map_v2.png?cl=0d1117&w=600&t=tt&d=lt5yi6v115gANrN7Nqlqd0QdWnaacVJw3S5z_FQTu7A&co=667eea&cmo=764ba2&cmn=a855f7&ct=c9d1d9" width="600" />
+</a>
+
+</div>
 
 *Thank you for visiting my profile!*
 
@@ -128,6 +146,8 @@ Python application performing sentiment analysis on latest news, with NASA APOD 
 
 ---
 
+<!-- 
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -137,6 +157,8 @@ Python application performing sentiment analysis on latest news, with NASA APOD 
 </div>
 
 ---
+
+-->
 
 ## 📚 Recent Publications & Research
 
