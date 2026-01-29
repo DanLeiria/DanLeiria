@@ -80,7 +80,12 @@ I help organizations optimize their energy systems through data-driven approache
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanLeiria&layout=compact&theme=gradient&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_color=667eea&hide_border=false&langs_count=8)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanLeiria&theme=dark&background=0d1117&stroke=667eea&ring=764ba2&fire=ff6b6b&currStreakLabel=667eea&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9&border=667eea)
+
 -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanLeiria&theme=dark&background=0d1117&stroke=667eea&ring=764ba2&fire=ff6b6b&currStreakLabel=667eea&border=667eea)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanLeiria&layout=compact&theme=gradient&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_color=667eea&hide_border=false&langs_count=8)
 
